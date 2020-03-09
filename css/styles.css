@@ -1,6 +1,9 @@
-h1{text-align: center;font-family: Helvetica;color: teal;}
-h2{text-align: center;font-family: Arial, sans-serif;}
+h2{text-align: center;font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;;color: teal;}
+h1{text-align: center;font-family: Courier;}
 body{background-color:skyblue;}
 section{display:flex; justify-content: center;}
 table{border-style: groove;border-top: groove;}
 td{color: rgb(68, 46, 46)}
+th{background-color: darkblue;}
+td{background-color: rgb(92, 68, 252);padding: 3px;}

@@ -1,0 +1,20 @@
+https://github.com/scave222/mini-lab1
+
+
+Review questions:
+1 What is the difference between an inline element and a block element?
+2 What happens when an element is positioned absolutely?
+3 How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+4 Name 4 elements that are diplay block by default, 5 elements that are display inline by default and 1 element that is display inline-5 block by default 5. In your own words, explain the box model. What is the fix for the box model?
+
+Answers:
+1 The inline element does not take necessary width and do not start up a new line while the block element start up a new line and take  up the full width available from left to right.
+2 It adjust relative to its parent position but if the parent position is not relative it adjust with the body.
+3 You make it inline.
+4 4 elements that are diplay block by default are <div>,<ul>,<section>,<p>.
+   5 elements that are display inline by default are <span>,<strong>,<a>,<del>,<i>.
+The box model is like a case that wrap or encapsulate an element which are content,padding,border and margin.
+The fix for box model are the content,padding,border and margin
+
+
+
