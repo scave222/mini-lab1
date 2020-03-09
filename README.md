@@ -39,7 +39,6 @@ In our example site, we used tables with columns for:
 - [ ] Create a Pull-Request to submit your work
 - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
 - [ ] Add your Instructor as a reviewer on the Pull-Request
-- [ ] Your Instructor then will then count the Assignment as done by merging the work back into master "STUDENT FORK".
 
 
 
