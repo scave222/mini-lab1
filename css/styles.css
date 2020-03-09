@@ -1,4 +1,6 @@
-h1{text-align: center;}
-h2{text-align: center;}
-body{background-color: gray;}
+h1{text-align: center;font-family: Helvetica;color: teal;}
+h2{text-align: center;font-family: Arial, sans-serif;}
+body{background-color:skyblue;}
 section{display:flex; justify-content: center;}
+table{border-style: groove;border-top: groove;}
+td{color: rgb(68, 46, 46)}
